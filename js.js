@@ -27,5 +27,4 @@ $("select").click(function () {
 
 $(".inval").on("keyup", function () {
   loxlama = Number($(this).val());
-  $("p").text("+"+loxlama);
 });
