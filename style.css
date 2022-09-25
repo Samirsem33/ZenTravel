@@ -31,8 +31,8 @@ input{
   font-size: 32px;
 }
 
-p{
-  display: inline-block;
+.n{
+  pointer-events: none;
 }
 
 .divb{
