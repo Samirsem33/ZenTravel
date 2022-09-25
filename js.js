@@ -27,4 +27,5 @@ $("select").click(function () {
 
 $(".inval").on("keyup", function () {
   loxlama = Number($(this).val());
+  hesab()
 });
