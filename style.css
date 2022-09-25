@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.div1{
+  width: 100%;
+  height: 100vh;
+  background-color: #313131;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div1 div{
+  color: white;
+  font-size: 30px;
+}
+input{
+  margin: 10px;
+  padding: 0px 30px;
+  height: 40px;
+  width: 179px;
+  font-size: 32px;
+}
+
+.inval{
+  margin: 0px;
+  padding: 0px 5px;
+  height: 40px;
+  width: 65px;
+  font-size: 32px;
+}
+
+p{
+  display: inline-block;
+}
+
+.divb{
+  margin: 0px 11px;
+}
+button{
+  font-size: 32px;
+  width: 60px;
+}
+
+select{
+  width: 80px;
+  height: 35px;
+  font-size: 24px;
+}
